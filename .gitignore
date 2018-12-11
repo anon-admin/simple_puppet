@@ -1,3 +1,5 @@
+/.project
+/*.iml
 *.gem
 *.rbc
 /.config
